@@ -23,8 +23,8 @@
 
 #followBtn {
 	margin-top: 50px;
-	background: linear-gradient(to right, #83bf6b, #e3e346, #dba0c8) !important;
-	/*background: #d4b935;*/
+	/*background: linear-gradient(to right, #83bf6b, #e3e346, #dba0c8) !important;*/
+	background: #d4b935;
 	border: 3px solid white;
 	color: black;
 	font-style: italic;
@@ -40,8 +40,8 @@
 }*/
 
 body {
-	background-image: url(images/138.jpg);
-	/*background: #113604;*/
+	/*background-image: url(images/138.jpg);*/
+	background: #113604;
 	color: #fff;
 	font-family: "Roboto", sans-serif;
 }
